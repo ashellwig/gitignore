@@ -1,0 +1,20 @@
+repo_name: ashellwig/gitignore
+report_id: 07f82f0c743c3f3422529f9e1d124f25
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-07T04:22:11+00:00'
+requested_by: shiftkey
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ashellwig/gitignore
+  detection_source: Repo Metadata
